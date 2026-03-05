@@ -83,14 +83,17 @@ section h2 {
 footer {
   text-align: center;
   margin-bottom: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer img {
+  width: 22px;
 }
 
 footer a {
   color: #E95E10;
-}
-
-footer img {
-  align-items: center;
 }
 
 ul {
